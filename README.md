@@ -1,2 +1,2 @@
-/devNick0815/gwTest/main/hello.bin
-2480
+1
+raw.githubusercontent.com/devNick0815/gwTest/main/hello.bin
